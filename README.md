@@ -19,7 +19,7 @@ The application uses the following configuration properties defined in the `Emai
 - `sslProperty`: Property to enable SSL for the SMTP connection.
 - `authPerm`: Property to enable SMTP authentication.
 - `senderEmail`: The email address of the sender.
-- `senderPassword`: The password of the sender's email account.
+- `senderPassword`: The password of the sender's email account."Password is Tremporary"
 - `receiverEmail1`: The first recipient's email address.
 - `receiverEmail2`: The second recipient's email address.
 
