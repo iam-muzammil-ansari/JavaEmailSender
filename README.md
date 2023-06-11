@@ -30,4 +30,4 @@ The project uses the following dependencies managed by Maven:
 - [javax.mail](https://mvnrepository.com/artifact/com.sun.mail/javax.mail) version 1.6.2
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is not licensed.
